@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/materium_cedric.mk
+    $(LOCAL_DIR)/kasumi_cedric.mk
 
 COMMON_LUNCH_CHOICES := \
-    materium_cedric-user \
-    materium_cedric-userdebug \
-    materium_cedric-eng
+    kasumi_cedric-user \
+    kasumi_cedric-userdebug \
+    kasumi_cedric-eng
